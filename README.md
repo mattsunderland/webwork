@@ -1,2 +1,2 @@
-# webwork
+# WeBWorK
 Repository of WeBWorK Problems
