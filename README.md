@@ -1,2 +1,2 @@
 # WeBWorK
-Repository of WeBWorK Problems
+A Repository of WeBWorK Problems
